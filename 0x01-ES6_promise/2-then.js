@@ -1,4 +1,4 @@
-// Promise is handle or not
+// funcs Promise is handle or not
 function handleResponseFromAPI(promise) {
   return promise
     .then(() => ({
