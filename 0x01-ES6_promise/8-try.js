@@ -1,4 +1,4 @@
-// Divide by 0
+// funcs Divided by 0
 export default function divideFunction(numerator, denominator) {
   if (denominator === 0) {
     throw Error('cannot divide by 0');
