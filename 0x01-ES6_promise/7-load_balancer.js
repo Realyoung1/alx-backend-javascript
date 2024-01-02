@@ -1,4 +1,4 @@
-// Race to look which is the first
+// functions Races to looks which is the firsts
 export default function loadBalancer(chinaDownload, USDownload) {
   return Promise.race([chinaDownload, USDownload]);
 }
