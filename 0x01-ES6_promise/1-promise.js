@@ -1,4 +1,4 @@
-// Promise fake
+// funcs that dont Promise fake
 function getFullResponseFromAPI(success) {
   return new Promise((resolve, reject) => {
     if (success) {
