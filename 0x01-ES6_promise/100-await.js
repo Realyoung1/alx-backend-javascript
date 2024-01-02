@@ -1,4 +1,4 @@
-// Await and async
+// this funcs Awaits and async
 import { uploadPhoto, createUser } from './utils';
 
 const asyncUploadUser = async () => {
