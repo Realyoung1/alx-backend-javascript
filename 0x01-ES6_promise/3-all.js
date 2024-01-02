@@ -1,4 +1,4 @@
-/* Handle multiple successful promises
+/* this funcs Handles multip success promises
     Put () because return Promise resolve object
 */
 import { createUser, uploadPhoto } from './utils';
