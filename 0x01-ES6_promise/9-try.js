@@ -1,4 +1,4 @@
-// Queue push
+// this func Queued for push
 function guardrail(mathFunction) {
   const queue = [];
   let result;
