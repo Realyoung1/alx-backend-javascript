@@ -1,4 +1,4 @@
-// Only make Promise
+// funcs that Only make Promises
 function getResponseFromAPI() {
   return new Promise((resolve, reject) => {
     /* eslint-disable */
